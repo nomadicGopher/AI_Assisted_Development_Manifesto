@@ -11,11 +11,10 @@ It is easy for AI to be used for practically anything to everything related to s
 * **With code as context** <span title="Always review outputs for potential corrections or to catch logic errors that may be presented.">ℹ️</span>
   * Code reviews & refactoring <span title="Asking if something can be done in a more readable or efficient way may be a good learning opportunity.">ℹ️</span>
   * Generating documentation or specs
-  * Debugging <span title="Try to understand & resolve the problem yourself first.">ℹ️</span>
 
 ## When not to use AI
 * The first attempt at solving a problem or implementing code
-* New ideas requiring creativity <span title="As of now (2025), LLMs operate on pre-existing data sets & lack the skill of free thinking. Uncommon logic may lead to partially accurate responses.">ℹ️</span>
+* Implementing code using uncommon methodologies <span title="As of now (2025), LLMs operate on pre-existing data sets & lack the skill of free thinking. Uncommon logic may lead to partially accurate responses.">ℹ️</span>
 
-## The Exception
-When related to high priority scenarios that are both time-sensitive and have direct consumer impact. The paycheck feeds the family.
+## Inspiration
+* [_TheVimeagen: Being Competent With Coding Is More Fun (YouTube_)](https://www.youtube.com/watch?v=qLC2pHw3tHM)

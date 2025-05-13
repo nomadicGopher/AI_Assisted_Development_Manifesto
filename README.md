@@ -1,4 +1,4 @@
-# Vibe Coding Manifesto
+# Prompt Engineering Manifesto
 It is easy for AI to be used for practically anything to everything related to software engineering. The following are guidelines for programmers to remain self-improving and efficient as opposed to solely floating on vibes.
 
 ## When to use AI

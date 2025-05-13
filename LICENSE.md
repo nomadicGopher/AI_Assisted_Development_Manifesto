@@ -6,6 +6,6 @@ Ensure that any copies or adaptations of your work include the following informa
 
 ---
 
-The original version of this work, "Vibe Coding Manifesto", is licensed under the Creative Commons Attribution 4.0 International License by the owner of the GitHub repository at [github.com/nomadicGopher/Vibe_Coding_Manifesto/LICENSE.md](https://github.com/nomadicGopher/Vibe_Coding_Manifesto/LICENSE.md)
+The original version of this work, "Prompt Engineering Manifesto", is licensed under the Creative Commons Attribution 4.0 International License by the owner of the GitHub repository at [github.com/nomadicGopher/Prompt_Engineering_Manifesto/LICENSE.md](https://github.com/nomadicGopher/Prompt_Engineering_Manifesto/LICENSE.md)
 
 ---

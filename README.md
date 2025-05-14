@@ -9,7 +9,7 @@ It is easy for AI to be used for practically anything to everything related to s
     * Explain {concept}
     * etc.
 * **With code as context** <span title="Always review outputs for potential corrections or to catch logic errors that may be presented.">ℹ️</span>
-  * Code reviews & refactoring <span title="Asking if something can be done in a more readable or efficient way may be a good learning opportunity.">ℹ️</span>
+  * Code reviews and refactoring <span title="Asking if something can be done in a more readable or efficient way may be a good learning opportunity.">ℹ️</span>
   * Generating documentation or specs
 
 ## When not to use AI

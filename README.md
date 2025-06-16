@@ -1,4 +1,4 @@
-# Prompt Engineering Manifesto
+# AI Assisted Development Manifesto
 It is easy for AI to be used for practically anything to everything related to software engineering. The following are guidelines for programmers leveraging AI to remain self-improving and efficient as opposed to solely floating on vibes.
 
 ### When to use AI
@@ -28,4 +28,4 @@ _<sub>1. If code changes are provided in response, use it as a reference or make
 * [**Youtube: TheVimeagen:** Being Competent With Coding Is More Fun](https://www.youtube.com/watch?v=qLC2pHw3tHM)
 
 ### Contribute
-* Discuss your opinions at [https://github.com/nomadicGopher/Prompt_Engineering_Manifesto/discussions](https://github.com/nomadicGopher/Prompt_Engineering_Manifesto/discussions) to potentially influence this manifesto
+* Discuss your opinions at [https://github.com/nomadicGopher/AI_Assisted_Development_Manifesto/discussions](https://github.com/nomadicGopher/AI_Assisted_Development_Manifesto/discussions) to potentially influence this manifesto

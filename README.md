@@ -10,6 +10,7 @@ It is easy for AI to be used for practically anything to everything related to s
 * **With code as context** _<sup>2</sup>_
   * Code reviews and refactoring _<sup>3</sup>_
   * Generating documentation or specs
+  * Explaining/verifying existing logic
 
 ### When not to use AI
 * The first attempt at solving a problem or implementing code
